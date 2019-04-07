@@ -15,3 +15,6 @@ $ make
 
 This installs `ftty` to /usr/local/bin and `libftty.so` to
 /usr/local/lib.  To change the locations, edit the `Makefile`.
+
+**Note:** if you change /usr/local/lib, you need to update the path in
+the `ftty` shell script.
