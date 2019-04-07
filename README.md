@@ -8,7 +8,7 @@ $ ftty ghc main.hs | less -R # colors are preserved
 
 ### Installation
 
-```.sh
+```
 # make install
 ```
 
